@@ -26,8 +26,8 @@ Once the dependencies are installed, start the development server:
 This will start the React development server and open your application in the default web browser. If it doesn’t open automatically, navigate to http://localhost:3000 in your browser.
 
 ## Project Structure
--src/components: Contains the React components for the application.
--src/store: Contains the Redux store configuration and slice files.
--src/App.js: Main application file where routes are defined.
--src/index.js: Entry point of the React application where the Redux store is provided.
+- src/components: Contains the React components for the application.
+- src/store: Contains the Redux store configuration and slice files.
+- src/App.js: Main application file where routes are defined.
+- src/index.js: Entry point of the React application where the Redux store is provided.
 
